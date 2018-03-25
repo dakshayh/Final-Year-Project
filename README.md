@@ -2,4 +2,6 @@
 
 Implementing Locality Sensitive Hashing in Private Cloud
 
-## Notes
+## Jaccard Similarity
+
+Implementing Jaccard similarity between documents using the file name as the feature and the implementation can be found in Searching.jsp file
